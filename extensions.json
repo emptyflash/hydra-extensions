@@ -108,7 +108,7 @@
         "thumbnail": "ritchse-hydra-gif.png",
         "load": "await loadScript(\"https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-gif.js\")",
         "examples": [
-            "https://hydra.ojack.xyz/?code=YXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGaHlwZXItaHlkcmEuZ2xpdGNoLm1lJTJGaHlkcmEtZ2lmLmpzJTIyKSUwQSUwQXMwLmluaXRHaWYoJ2h0dHBzJTNBJTJGJTJGaS5naXBoeS5jb20lMkZtZWRpYSUyRmtacWJCVDY0RUN0anklMkZnaXBoeS5naWYnKSUwQSUwQXNyYyhzMCkuc2NhbGUoMSUyQy42KSUwQSUwOS5vdXQoKQ%3D%3D"
+            "https://hydra.ojack.xyz/?code=JTBBYXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGY2RuLmpzZGVsaXZyLm5ldCUyRmdoJTJGZ2Vpa2hhJTJGaHlwZXItaHlkcmElNDBsYXRlc3QlMkZoeWRyYS1naWYuanMlMjIpJTBBJTBBczAuaW5pdEdpZignaHR0cHMlM0ElMkYlMkZpLmdpcGh5LmNvbSUyRm1lZGlhJTJGa1pxYkJUNjRFQ3RqeSUyRmdpcGh5LmdpZicpJTBBJTBBc3JjKHMwKS5zY2FsZSgxJTJDLjYpJTBBJTA5Lm91dCgpJTBB"
         ]
     },
     {
@@ -119,7 +119,7 @@
         "thumbnail": "ritchse-hydra-outputs.png",
         "load": "await loadScript(\"https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-outputs.js\")",
         "examples": [
-            "https://hydra.ojack.xyz/?code=YXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGaHlwZXItaHlkcmEuZ2xpdGNoLm1lJTJGaHlkcmEtb3V0cHV0cy5qcyUyMiklMEElMEFvMC5zZXROZWFyZXN0KCklMEFvMS5zZXRMaW5lYXIoKSUwQSUwQXNyYyhvMCklMEElMjAubGF5ZXIob3NjKDMwJTJDLjIlMkMxKS5tYXNrKHNoYXBlKDQlMkMuMSUyQzApKSklMEElMjAuc2NhbGUoMS4wMSkucm90YXRlKC4wMSklMEElMjAub3V0KG8wKSUwQSUwQXNyYyhvMSklMEElMjAubGF5ZXIob3NjKDMwJTJDLjIlMkMxKS5tYXNrKHNoYXBlKDQlMkMuMSUyQzApKSklMEElMjAuc2NhbGUoMS4wMSkucm90YXRlKC4wMSklMEElMjAub3V0KG8xKSUwQSUwQXJlbmRlcigp"
+            "https://hydra.ojack.xyz/?code=JTBBYXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGY2RuLmpzZGVsaXZyLm5ldCUyRmdoJTJGZ2Vpa2hhJTJGaHlwZXItaHlkcmElNDBsYXRlc3QlMkZoeWRyYS1vdXRwdXRzLmpzJTIyKSUwQSUwQW8wLnNldE5lYXJlc3QoKSUwQW8xLnNldExpbmVhcigpJTBBJTBBc3JjKG8wKSUwQSUyMC5sYXllcihvc2MoMzAlMkMuMiUyQzEpLm1hc2soc2hhcGUoNCUyQy4xJTJDMCkpKSUwQSUyMC5zY2FsZSgxLjAxKS5yb3RhdGUoLjAxKSUwQSUyMC5vdXQobzApJTBBJTBBc3JjKG8xKSUwQSUyMC5sYXllcihvc2MoMzAlMkMuMiUyQzEpLm1hc2soc2hhcGUoNCUyQy4xJTJDMCkpKSUwQSUyMC5zY2FsZSgxLjAxKS5yb3RhdGUoLjAxKSUwQSUyMC5vdXQobzEpJTBBJTBBcmVuZGVyKCklMEE%3D"
         ]
     },
     {
@@ -130,7 +130,7 @@
         "thumbnail": "ritchse-hydra-text.png",
         "load": "await loadScript(\"https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-text.js\")",
         "examples": [
-            "https://hydra.ojack.xyz/?code=YXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGaHlwZXItaHlkcmEuZ2xpdGNoLm1lJTJGaHlkcmEtdGV4dC5qcyUyMiklMEElMEFoeWRyYVRleHQuZm9udCUyMCUzRCUyMCUyMnNlcmlmJTIyJTBBaHlkcmFUZXh0LmxpbmVXaWR0aCUyMCUzRCUyMCUyMjIlMjUlMjIlMEFzdHIlMjAlM0QlMjAlMjIlMjBoeWRyYV8hJTIwJTIyJTBBc29saWQoMSUyQy4yKSUwQSUwOS5ibGVuZChzcmMobzApLnNjYWxlKDEuMDIpLmNvbG9yYW1hKC4wMikpJTBBJTA5LmxheWVyKHRleHQoc3RyKSklMEElMDkuZGlmZihzdHJva2VUZXh0KHN0cikubW9kdWxhdGVTY2FsZShub2lzZSgxJTJDMSklMkMlMjAuNCkpJTBBJTA5Lm91dCgp"
+            "https://hydra.ojack.xyz/?code=JTBBYXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGY2RuLmpzZGVsaXZyLm5ldCUyRmdoJTJGZ2Vpa2hhJTJGaHlwZXItaHlkcmElNDBsYXRlc3QlMkZoeWRyYS10ZXh0LmpzJTIyKSUwQSUwQWF3YWl0JTIwbG9hZFNjcmlwdCglMjJodHRwcyUzQSUyRiUyRmh5cGVyLWh5ZHJhLmdsaXRjaC5tZSUyRmh5ZHJhLXRleHQuanMlMjIpJTBBJTBBaHlkcmFUZXh0LmZvbnQlMjAlM0QlMjAlMjJzZXJpZiUyMiUwQWh5ZHJhVGV4dC5saW5lV2lkdGglMjAlM0QlMjAlMjIyJTI1JTIyJTBBc3RyJTIwJTNEJTIwJTIyJTIwaHlkcmFfISUyMCUyMiUwQXNvbGlkKDElMkMuMiklMEElMDkuYmxlbmQoc3JjKG8wKS5zY2FsZSgxLjAyKS5jb2xvcmFtYSguMDIpKSUwQSUwOS5sYXllcih0ZXh0KHN0cikpJTBBJTA5LmRpZmYoc3Ryb2tlVGV4dChzdHIpLm1vZHVsYXRlU2NhbGUobm9pc2UoMSUyQzEpJTJDJTIwLjQpKSUwQSUwOS5vdXQoKSUwQQ%3D%3D"
         ]
     },
     {
@@ -141,7 +141,7 @@
         "thumbnail": "ritchse-hydra-wrap.png",
         "load": "await loadScript(\"https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-wrap.js\")",
         "examples": [
-            "https://hydra.ojack.xyz/?code=YXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGaHlwZXItaHlkcmEuZ2xpdGNoLm1lJTJGaHlkcmEtd3JhcC5qcyUyMiklMEElMEFoeWRyYVdyYXAuc2V0TWlycm9yKCklMEElMEFzcmMobzApJTBBJTA5LmxheWVyKG9zYygpLnJvdGF0ZSgpLm1hc2soc2hhcGUoNCUyQzElMkMwKSkpJTBBJTA5LnNjYWxlKC41KSUwQSUwOS5ibGVuZChub2lzZSgpJTJDLjIpJTBBJTA5Lm91dCgp"
+            "https://hydra.ojack.xyz/?code=JTBBYXdhaXQlMjBsb2FkU2NyaXB0KCUyMmh0dHBzJTNBJTJGJTJGY2RuLmpzZGVsaXZyLm5ldCUyRmdoJTJGZ2Vpa2hhJTJGaHlwZXItaHlkcmElNDBsYXRlc3QlMkZoeWRyYS13cmFwLmpzJTIyKSUwQSUwQWh5ZHJhV3JhcC5zZXRNaXJyb3IoKSUwQSUwQXNyYyhvMCklMEElMDkubGF5ZXIob3NjKCkucm90YXRlKCkubWFzayhzaGFwZSg0JTJDMSUyQzApKSklMEElMDkuc2NhbGUoLjUpJTBBJTA5LmJsZW5kKG5vaXNlKCklMkMuMiklMEElMDkub3V0KCklMEE%3D"
         ]
     },
     {
