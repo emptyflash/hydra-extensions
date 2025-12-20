@@ -8,7 +8,7 @@ List of community extensions and other libraries to use in Hydra
 In the Hydra editor, you can load any external scripts, libraries or hydra-synth extensions using the following syntax at the top of your sketch:
 
 ```javascript
-await loadScript("https://cdn.statically.io/gl/metagrowing/extra-shaders-for-hydra/main/lib/lib-noise.js")
+await loadScript("https://metagrowing.org/extra-shaders-for-hydra/lib-noise.js")
 
 warp(1)
 	.diff(gradient(1).b().color(.25,-.25,.4))
@@ -41,11 +41,11 @@ warp(1)
 | hydra-nowrap        | Disables all wrapping in Hydra                                      | https://cdn.jsdelivr.net/gh/ritchse/hydra-extensions/hydra-nowrap.js                     |
 | hydra-fractals      | Useful functions for fractals (mirrors, etc)                        | https://cdn.jsdelivr.net/gh/ritchse/hydra-extensions/hydra-fractals.js                   |
 | hydra-superdirt     | A Hydra extension for handling SuperDirt RMS events                 | https://cdn.jsdelivr.net/gh/munshkr/hydra-superdirt/index.js                             |
-| lib-pattern         | Additional shaders inspired by op-art patterns                      | https://cdn.statically.io/gl/metagrowing/extra-shaders-for-hydra/main/lib/lib-pattern.js |
-| lib-color           | Additional filters for mixing or manipulating colors                | https://cdn.statically.io/gl/metagrowing/extra-shaders-for-hydra/main/lib/lib-color.js   |
-| lib-noise           | Noise shaders inspired by the work of F. Kenton Musgrave            | https://cdn.statically.io/gl/metagrowing/extra-shaders-for-hydra/main/lib/lib-noise.js   |
-| lib-screen          | Shaders to apply to outputs (useful for feedback and final effects) | https://cdn.statically.io/gl/metagrowing/extra-shaders-for-hydra/main/lib/lib-screen.js  |
-| lib-wave            | Additional periodic patterns (wave shapes)                          | https://cdn.statically.io/gl/metagrowing/extra-shaders-for-hydra/main/lib/lib-wave.js    |
+| lib-pattern         | Additional shaders inspired by op-art patterns                      | https://metagrowing.org/extra-shaders-for-hydra/lib-pattern.js                           |
+| lib-color           | Additional filters for mixing or manipulating colors                | https://metagrowing.org/extra-shaders-for-hydra/lib-color.js                             |
+| lib-noise           | Noise shaders inspired by the work of F. Kenton Musgrave            | https://metagrowing.org/extra-shaders-for-hydra/lib-noise.js                             |
+| lib-screen          | Shaders to apply to outputs (useful for feedback and final effects) | https://metagrowing.org/extra-shaders-for-hydra/lib-screen.js                            |
+| lib-wave            | Additional periodic patterns (wave shapes)                          | https://metagrowing.org/extra-shaders-for-hydra/lib-wave.js                              |
 | antlia-colors       | Use colors as arrays and apply many useful functions                | https://cdn.jsdelivr.net/gh/ritchse/hydra-antlia/antlia-colors.js                        |
 | antlia-interact     | Extension to make interaction with mouse and keyboard easy          | https://cdn.jsdelivr.net/gh/ritchse/hydra-antlia/antlia-interact.js                      |
 | antlia-maths        | Useful math functions to use in Hydra                               | https://cdn.jsdelivr.net/gh/ritchse/hydra-antlia/antlia-maths.js                         |
