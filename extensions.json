@@ -59,7 +59,7 @@
     {
         "name": "if then else",
         "description": "Switch between different branches of your animation.",
-        "documentation": "https://gitlab.com/metagrowing/extra-shaders-for-hydra/-/tree/main/gallery/cond",
+        "documentation": "https://gitlab.com/metagrowing/extra-shaders-for-hydra/-/blob/main/gallery/cond/README.md",
         "author": "Thomas Jourdan",
         "thumbnail": "kandid-lib-cond.png",
         "load": "await loadScript(\"https://metagrowing.org/extra-shaders-for-hydra/lib-cond.js\")",
