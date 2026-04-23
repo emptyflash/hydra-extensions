@@ -260,7 +260,7 @@
         "www": "https://github.com/emptyflash/hydra-datamosh",
         "documentation": "https://github.com/emptyflash/hydra-datamosh/blob/main/README.md",
         "author": "emptyflash",
-        "thumbnail": "hydra-vertex.svg",
+        "thumbnail": "moshed_data.png",
         "load": "const { datamosh } = await import(\"https://emptyfla.sh/hydra-datamosh/datamosh.js\")",
         "examples": [
             "https://hydra.ojack.xyz/?code=Y29uc3QlMjAlN0IlMjBkYXRhbW9zaCUyMCU3RCUyMCUzRCUyMGF3YWl0JTIwaW1wb3J0KCUyMmh0dHBzJTNBJTJGJTJGZW1wdHlmbGEuc2glMkZoeWRyYS1kYXRhbW9zaCUyRmRhdGFtb3NoLmpzJTIyKSUwQWF3YWl0JTIwczAuaW5pdFZpZGVvKCdodHRwcyUzQSUyRiUyRmNvbnRlbnQuandwbGF0Zm9ybS5jb20lMkZ2aWRlb3MlMkZONFgxTmtJUi0xaG9uNEJzdS5tcDQnKSUwQWNvbnN0JTIwbmV3U291cmNlJTIwJTNEJTIwYXdhaXQlMjBkYXRhbW9zaChzMCklMEFzcmMobmV3U291cmNlKS5vdXQoKQ%3D%3D",
